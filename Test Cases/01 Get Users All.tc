@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01 Get Users All</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5f27bc6-7d7d-41ab-b75a-3056e7884815</testCaseGuid>
+</TestCaseEntity>

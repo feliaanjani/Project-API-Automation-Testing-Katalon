@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04 Post Username Duplicate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd47ef2e-30a5-419d-a5f0-1ff24e5d10dc</testCaseGuid>
+</TestCaseEntity>
